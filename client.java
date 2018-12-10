@@ -1,8 +1,5 @@
 package game;
 
-/* client - Decompiled by JODE
- * Visit http://jode.sourceforge.net/
- */
 import jaclib.ping.Ping;
 
 import java.awt.Color;
